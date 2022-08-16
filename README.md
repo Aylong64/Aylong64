@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ayo
-- 👀 I’m interested in being a front-end developer but i am open to more
-- 🌱 I’m currently learning Html,Css and Javascript
-- 💞️ I’m looking to collaborate on Html,Css and Javascript projects
+- 👀 I’m interested in being a front-end developer
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me jimohayomkde@gmail.com
 
 <!---
