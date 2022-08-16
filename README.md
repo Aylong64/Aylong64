@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayo
+- 👋 Hi, I’m Ayomide
 - 👀 I’m interested in being a front-end developer
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me jimohayomkde@gmail.com
