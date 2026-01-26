@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Ayomide
-- 👀 I’m interested in being a front-end developer
-- 🌱 I’m currently learning Javascript
+- 👀 Geologist | Frontend Developer
+- 🎓 BSc Geology, University of Lagos (2025)
+- Passionate about using technology to solve problems in the energy and natural resources sector
 - 📫 How to reach me jimohayomkde@gmail.com
 
-<!---
-Aylong64/Aylong64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently open to frontend developer opportunities in the energy, mining, and natural resources sectors.
