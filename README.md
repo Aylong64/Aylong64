@@ -9,8 +9,6 @@ I build frontend tools and interfaces where geological domain knowledge shapes t
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aylong.netlify.app)
 [![Instagram](https://img.shields.io/badge/Instagram-aylong.builds-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aylong.builds)
 
-![Profile views](https://komarev.com/ghpvc/?username=Aylong64&style=flat-square&label=PROFILE+VIEWS)
-
 </div>
 
 ## A little about me
@@ -23,17 +21,9 @@ I build frontend tools and interfaces where geological domain knowledge shapes t
 
 ## What I'm building
 
-### [DepEnv](https://depenv.netlify.app)
+### Sammy's Portfolio
 
-A browser-based tool that interprets likely depositional environment from grain size, sorting, roundness, and porosity — my first live React project, and a direct descendant of the manual petrographic analysis I did during my undergraduate thesis on bituminous sand petrography in the Dahomey Basin.
-
-- Built with plain React (CDN + in-browser Babel), no build tooling, vanilla CSS
-- Designed as a teaching aid for sedimentary interpretation, not a lab replacement
-
-
-### NYSC Allawee Budget Planner
-
-A percentage-based expense splitter for corps members, built with the same lightweight React-via-CDN stack - no framework, no bundler, just a fast, focused tool.
+A responsive portfolio built with HTML, CSS and jQuery. Features dark mode, FLIP-animated filtering, form validation and accessibility support
 
 
 ## My toolbox
@@ -50,18 +40,11 @@ A percentage-based expense splitter for corps members, built with the same light
 
 ## How I approach building
 
-```text
-Start from a real, specific problem.
-Reach for the simplest stack that ships.
-Bring in the geology where it adds signal, not decoration.
-Iterate on the aesthetic until it feels like mine.
-```
-
-I lean toward lightweight, CDN-first stacks over heavy tooling — I'd rather have something live and usable than perfectly architected and unfinished.
+I lean toward lightweight, CDN-first stacks over heavy tooling. I'd rather have something live and usable than perfectly architected and unfinished.
 
 ## Education
 
-- **BSc, Geology** — University of Lagos
+- **BSc, Geology** - University of Lagos
 ---
 
 <div align="center">
