@@ -21,7 +21,7 @@ I build frontend tools and interfaces where geological domain knowledge shapes t
 
 ## What I'm building
 
-### Subterrain
+### Ojú Ọjọ́
 
 A live weather dashboard built with HTML, CSS and Vue 3 (via CDN). Features current conditions, a 24-hour rain outlook, 7-day rainfall, air quality for Agbara, Igbesa and Crawford University, automatic light and dark mode, and 10-minute auto-refresh.
 
